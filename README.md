@@ -13,10 +13,11 @@
 
 | **Item** | **Target Date** | **Cost (BDT)** |
 | :--- | :--- | :--- |
-| **GRE** | April 2026 | ৳28,500 |
-| **TOEFL** | June 2026 | ৳21,800 |
+| **GRE** | April 12, 2026 | ৳28,500 |
+| **TOEFL** | June 13, 2026 | ৳21,800 |
+| **WES Evaluation** | After results | ~৳25,000 |
 | **GregMat+ (6 months)** | Jan - Jun 2026 | ~৳3,700 |
-| **Total** | | **~৳54,000** |
+| **Total** | | **~৳79,000** |
 
 > [!NOTE]
 > *   Keeping ~৳5,000 buffer for bank fees and rate fluctuations
@@ -110,7 +111,7 @@
 - [ ] Light review only (no new concepts)
 - [ ] 1 final mock on Monday
 - [ ] Rest and confidence building
-- [ ] **🎯 GRE EXAM: Mid-April**
+- [ ] **🎯 GRE EXAM: April 12, 2026 (Saturday)**
 
 ---
 
@@ -144,7 +145,7 @@
 |:---:|:---|:---|
 | Week 19 | 2 full TOEFL mocks | 105+ score |
 | Week 20 | Final mock + review | 110+ score |
-| | **🎯 TOEFL EXAM: Mid-June** | |
+| | **🎯 TOEFL EXAM: June 13, 2026 (Saturday)** | |
 
 ---
 
@@ -315,15 +316,17 @@ gantt
 
 ### 1. GRE General Test
 *   **Registration Fee**: ৳28,500
-*   **Rescheduling Fee**: ~$50 (if needed)
 *   **Additional Score Reports**: $27 per recipient (4 free at test center)
 
 ### 2. TOEFL iBT
 *   **Registration Fee**: ৳21,800
-*   **Rescheduling Fee**: ~$60 (if needed)
 *   **Additional Score Reports**: $20 per recipient (4 free at test center)
 
-### 3. Preparation Materials
+### 3. WES Credential Evaluation
+*   **Course-by-Course Evaluation**: ~$205 (~৳25,000)
+*   Includes international courier delivery
+
+### 4. Preparation Materials
 *   **GregMat+**: $5/month (~৳612/month)
 
 ---
