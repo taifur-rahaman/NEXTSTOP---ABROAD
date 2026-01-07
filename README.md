@@ -25,7 +25,7 @@
 
 ## 🏰 The Quest Overview
 
-| Trial | Date of Reckoning | Gold Required (৳) |
+| Trial | Date of Reckoning | Money Required (৳) |
 | :--- | :--- | :--- |
 | ⚔️ **The GRE Trial** | April 12, 2026 | 28,500 |
 | 🗣️ **The TOEFL Trial** | June 13, 2026 | 21,800 |
