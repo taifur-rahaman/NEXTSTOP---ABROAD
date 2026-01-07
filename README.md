@@ -1,4 +1,4 @@
-# 🎓 My GRE & TOEFL Preparation Plan
+# 🎓 My Study Abroad Preparation Plan — Full Funding Goal
 
 ## 🎯 My Target Scores
 
@@ -11,15 +11,15 @@
 
 ## 📊 Executive Summary
 
-| **Exam** | **Target Date** | **Estimated Cost (USD)** | **Estimated Cost (BDT)** |
-| :--- | :--- | :--- | :--- |
-| **GRE** | **April 2026** | ~$220 | ~৳26,950 |
-| **TOEFL** | **June 2026** | ~$205 | ~৳25,113 |
-| **Total** | | **~$425** | **~৳52,063** |
+| **Item** | **Target Date** | **Cost (BDT)** |
+| :--- | :--- | :--- |
+| **GRE** | April 2026 | ৳28,500 |
+| **TOEFL** | June 2026 | ৳21,800 |
+| **GregMat+ (6 months)** | Jan - Jun 2026 | ~৳3,700 |
+| **Total** | | **~৳54,000** |
 
 > [!NOTE]
-> *   **Exchange Rate**: $1 = ৳122.5 (Jan 2026 rate)
-> *   **Buffer**: Keeping ~৳5,000 extra for bank fees and rate fluctuations
+> *   Keeping ~৳5,000 buffer for bank fees and rate fluctuations
 
 ---
 
@@ -148,6 +148,78 @@
 
 ---
 
+## 📝 Phase 5: Statement of Purpose (SOP) — Jun 15 - Jul 15
+
+### SOP Essentials
+
+| Element | What to Include |
+|:---|:---|
+| **Opening Hook** | Compelling story or motivation that sparked my interest |
+| **Academic Background** | Relevant coursework, projects, research experience |
+| **Professional Experience** | Work, internships, achievements related to the field |
+| **Why This Program** | Specific reasons for choosing the program/university |
+| **Research Interests** | Topics I want to explore, faculty I want to work with |
+| **Career Goals** | Short-term and long-term objectives |
+| **Why Me** | What unique perspective/skills I bring |
+
+### SOP Timeline
+
+| Week | Task |
+|:---|:---|
+| **Week 21** | Research 5-6 target universities and their specific programs |
+| **Week 22** | Draft 1: Write raw first draft (no editing, just ideas) |
+| **Week 23** | Draft 2: Restructure, add specific details, cut fluff |
+| **Week 24** | Draft 3: Get feedback from mentors/professors, refine |
+| **Week 25** | Final polish: Customize for each university |
+
+### SOP Checklist
+- [ ] Research target programs and faculty
+- [ ] List my achievements, projects, and experiences
+- [ ] Write Draft 1 (brain dump)
+- [ ] Revise Draft 2 (structure + specifics)
+- [ ] Get feedback from 2-3 people
+- [ ] Create university-specific versions
+- [ ] Final proofread
+
+---
+
+## 📜 Phase 6: Letters of Recommendation (LOR) — Start by May
+
+### LOR Strategy
+
+| Recommender Type | Why Important |
+|:---|:---|
+| **Academic Professor 1** | Can speak to my intellectual abilities, coursework performance |
+| **Academic Professor 2** | Research/project supervisor who knows my work ethic |
+| **Professional/Supervisor** | Work experience, leadership, real-world skills |
+
+### LOR Timeline
+
+| When | Task |
+|:---|:---|
+| **May (Early)** | Identify 3-4 potential recommenders |
+| **May** | Approach them personally, explain my goals |
+| **June** | Provide them with my CV, SOP draft, and talking points |
+| **July** | Follow up politely, confirm they have time |
+| **Aug-Sep** | Send official requests through application portals |
+| **Before Deadline** | Send gentle reminders 2 weeks before due date |
+
+### What to Provide Recommenders
+- [ ] My updated CV/Resume
+- [ ] My draft SOP (so they understand my goals)
+- [ ] List of programs I'm applying to
+- [ ] Specific points I'd like them to highlight
+- [ ] Deadline dates for each university
+
+### LOR Checklist
+- [ ] Identify 3-4 recommenders
+- [ ] Meet with each recommender personally
+- [ ] Prepare and share support materials
+- [ ] Track LOR status for each university
+- [ ] Send thank-you notes after submission
+
+---
+
 ## 🛣️ Visual Preparation Path
 
 ```mermaid
@@ -180,17 +252,24 @@ graph TD
         M --> N((TOEFL EXAM))
     end
 
+    subgraph "Phase 5-6: Applications (Jun - Aug)"
+        N --> O[SOP Writing]
+        O --> P[LOR Collection]
+        P --> Q((APPLICATIONS))
+    end
+
     style J fill:#ff9900,stroke:#333,stroke-width:2px,color:white
     style N fill:#0099ff,stroke:#333,stroke-width:2px,color:white
+    style Q fill:#00cc66,stroke:#333,stroke-width:2px,color:white
 ```
 
 ---
 
-## 📅 Timeline Gantt Chart
+## 📅 Full Timeline Gantt Chart
 
 ```mermaid
 gantt
-    title GRE & TOEFL 2026 Roadmap
+    title Study Abroad 2026 Roadmap — Full Funding
     dateFormat  YYYY-MM-DD
     axisFormat  %b
 
@@ -205,47 +284,47 @@ gantt
     Section Practice             :2026-05-16, 15d
     Mock Tests & Polish          :crit, 2026-06-01, 14d
     TOEFL Exam                   :milestone, 2026-06-15, 0d
+
+    section Applications
+    SOP Writing                  :2026-06-15, 30d
+    LOR Collection               :2026-05-01, 120d
+    University Applications      :crit, 2026-08-01, 60d
 ```
 
 ---
 
-## � Resources
+## 📚 Resources
 
-### Free Resources (Start Here!)
+### Free Resources
 
-| Resource | Focus | Link |
+| Resource | Focus |
+|:---|:---|
+| **ETS PowerPrep** | Official GRE practice tests (2 free) |
+| **Magoosh Vocab App** | 1000+ GRE words (free mobile app) |
+| **ETS TOEFL Practice** | Official TOEFL prep materials |
+
+### Paid Resource
+
+| Resource | Cost | Why I'm Using It |
 |:---|:---|:---|
-| **GregMat+** | Complete GRE prep | gregmat.com ($5/month) |
-| **ETS PowerPrep** | Official practice tests | ets.org (2 free tests) |
-| **Magoosh Vocab App** | 1000+ GRE words | Free mobile app |
-| **ETS TOEFL Practice** | Official TOEFL prep | ets.org/toefl |
-
-### Recommended Paid Resources
-
-| Resource | Cost | Best For |
-|:---|:---|:---|
-| Manhattan 5lb Book | ~$20 | Quant practice |
-| ETS Official Guide | ~$40 | Official questions |
-| Magoosh GRE | ~$179 | Video explanations |
+| **GregMat+** | $5/month (~৳612/month) | Complete GRE prep, best value for money |
 
 ---
 
 ## 💰 Cost Breakdown
 
 ### 1. GRE General Test
-*   **Registration Fee**: $220 (~৳26,950)
-*   **Rescheduling Fee**: $50 (if needed)
+*   **Registration Fee**: ৳28,500
+*   **Rescheduling Fee**: ~$50 (if needed)
 *   **Additional Score Reports**: $27 per recipient (4 free at test center)
 
 ### 2. TOEFL iBT
-*   **Registration Fee**: $205 (~৳25,113)
-*   **Rescheduling Fee**: $60 (if needed)
+*   **Registration Fee**: ৳21,800
+*   **Rescheduling Fee**: ~$60 (if needed)
 *   **Additional Score Reports**: $20 per recipient (4 free at test center)
 
-### 3. Preparation Materials (Optional)
-*   **GregMat+**: $5/month (~৳612/month) - *Highly Recommended Budget Option*
-*   **ETS Official Guide Books**: ~$40 (~৳4,900)
-*   **Magoosh GRE (6 Month)**: ~$179 (~৳21,927) - *Wait for sales*
+### 3. Preparation Materials
+*   **GregMat+**: $5/month (~৳612/month)
 
 ---
 
@@ -280,6 +359,8 @@ gantt
 - [ ] **Week 2**: Begin vocabulary with Barron's 333 / Magoosh vocab app
 - [ ] **March**: Book GRE test date for mid-April
 - [ ] **April (post-GRE)**: Book TOEFL test date for mid-June
+- [ ] **May**: Approach potential LOR recommenders
+- [ ] **June**: Start SOP drafting
 - [ ] **Before exams**: Select 4 universities for free score sends
 
 ---
@@ -297,8 +378,5 @@ gantt
 | 13-14 | Review | Final polish | Error review | **325+ 🎯** |
 
 ---
-
-> [!CAUTION]
-> **Note to self**: Take 1 full rest day per week. Quality > Quantity. Don't burn out!
 
 **Let's do this! 💪🎓**
