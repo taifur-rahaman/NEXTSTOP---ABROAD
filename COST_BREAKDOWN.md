@@ -4,6 +4,7 @@
 
 - [Executive Summary](#-executive-summary)
 - [Cost Breakdown](#-cost-breakdown)
+- [Application Fees](#-application-fees)
 - [Timeline](#-timeline)
 - [Target Scores](#-target-scores)
 - [Payment Schedule](#-payment-schedule)
@@ -16,8 +17,9 @@
 |:---|---:|
 | Exam Fees | ৳75,300 |
 | Study Materials | ৳3,700 |
+| Application Fees (10 universities) | ৳60,000 |
 | Buffer | ৳5,000 |
-| **GRAND TOTAL** | **৳84,000** |
+| **GRAND TOTAL** | **৳144,000** |
 
 ---
 
@@ -29,8 +31,23 @@
 | TOEFL iBT | Test of English as a Foreign Language | June 13, 2026 | ৳21,800 |
 | WES Evaluation | Credential Evaluation (Course-by-Course) | After Results | ৳25,000 |
 | GregMat+ | Complete GRE Preparation Course | 6 months | ৳3,700 |
+| Application Fees | 10 universities (USA + Europe) | Aug - Oct 2026 | ৳60,000 |
 | Buffer | Bank fees, currency fluctuations | - | ৳5,000 |
-| **TOTAL** | | | **৳84,000** |
+| **TOTAL** | | | **৳144,000** |
+
+---
+
+## 🏛️ Application Fees
+
+| Region | Universities | Avg Fee | Subtotal (BDT) |
+|:---|:---:|:---|---:|
+| USA | 6 | ~$75 each | ৳55,000 |
+| Germany | 2 | Free | ৳0 |
+| Sweden | 1 | ~900 SEK (~$85) | ৳10,000 |
+| Denmark | 1 | Free | ৳0 |
+| **Total** | **10** | | **৳65,000** |
+
+> Germany and Denmark typically have no application fees. Sweden charges ~900 SEK for non-EU applicants. Some US universities offer fee waivers.
 
 ---
 
@@ -68,7 +85,8 @@
 | May 2026 | TOEFL Registration + GregMat+ | ৳22,412 |
 | June 2026 | GregMat+ | ৳612 |
 | After Results | WES Evaluation | ৳25,000 |
-| | **TOTAL** | **৳78,972** |
+| Aug - Oct 2026 | Application Fees (10 universities) | ৳60,000 |
+| | **TOTAL** | **৳138,972** |
 
 ---
 

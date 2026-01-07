@@ -31,10 +31,11 @@
 | 🗣️ **The TOEFL Trial** | June 13, 2026 | 21,800 |
 | 📜 **WES Scroll Verification** | After victories | ~25,000 |
 | 📖 **GregMat+ Grimoire** (6 moons) | Jan - Jun 2026 | ~3,700 |
-| **Total Campaign Cost** | | **~৳79,000** |
+| 🏰 **Kingdom Applications** (10 total) | Aug - Oct 2026 | ~60,000 |
+| **Total Campaign Cost** | | **~৳139,000** |
 
 > [!NOTE]
-> *Reserve ~৳5,000 in the war chest for unexpected tolls and currency fluctuations*
+> *Application fees: 6 USA (~$75 each) + 2 Germany (free) + 1 Sweden (~$85) + 1 Denmark (free). Reserve ~৳5,000 buffer.*
 
 ---
 
