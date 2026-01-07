@@ -30,7 +30,7 @@
 | ⚔️ **The GRE Trial** | April 12, 2026 | 28,500 |
 | 🗣️ **The TOEFL Trial** | June 13, 2026 | 21,800 |
 | 📜 **WES Scroll Verification** | After victories | ~25,000 |
-| 📖 **GregMat+ Grimoire** (6 moons) | Jan - Jun 2026 | ~3,700 |
+| 📖 **GregMat+ Grimoire** (6 moons) | Jan - Jun 2026 | ~6,000 |
 | 🏰 **Kingdom Applications** (10 total) | Aug - Oct 2026 | ~60,000 |
 | **Total Campaign Cost** | | **~৳139,000** |
 
@@ -316,7 +316,7 @@ graph TD
 
 | Grimoire | Cost | Why I Chose It |
 |:---|:---|:---|
-| 📖 **GregMat+** | $5/moon (~৳612/moon) | Complete GRE mastery, legendary value |
+| 📖 **GregMat+** | $8/moon (~৳980/moon) | Complete GRE mastery, legendary value |
 
 ---
 
@@ -335,7 +335,7 @@ graph TD
 *   Includes international raven delivery
 
 ### 📖 Training Materials
-*   **GregMat+ Grimoire**: $5/moon (~৳612/moon)
+*   **GregMat+ Grimoire**: $8/moon (~৳980/moon)
 
 ---
 
@@ -365,7 +365,7 @@ graph TD
 
 - [ ] **Jan 8**: Face the ETS PowerPrep 1 diagnostic trial
 - [ ] **Jan 9**: Analyze results & identify weak attributes
-- [ ] **Jan 10**: Acquire the GregMat+ Grimoire ($5/moon)
+- [ ] **Jan 10**: Acquire the GregMat+ Grimoire ($8/moon)
 - [ ] **Jan 12**: Passport Check — ensure validity for 6+ moons past trials
 - [ ] **Week 2**: Begin vocabulary training with Barron's 333 / Magoosh app
 - [ ] **March**: Book GRE trial date

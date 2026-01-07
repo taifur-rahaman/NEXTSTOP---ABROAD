@@ -16,10 +16,10 @@
 | Category | Amount (BDT) |
 |:---|---:|
 | Exam Fees | ৳75,300 |
-| Study Materials | ৳3,700 |
-| Application Fees (10 universities) | ৳60,000 |
+| Study Materials | ৳6,000 |
+| Application Fees (10 universities) | ৳65,000 |
 | Buffer | ৳5,000 |
-| **GRAND TOTAL** | **৳144,000** |
+| **GRAND TOTAL** | **৳151,300** |
 
 ---
 
@@ -30,7 +30,7 @@
 | GRE General Test | Graduate Record Examination | April 12, 2026 | ৳28,500 |
 | TOEFL iBT | Test of English as a Foreign Language | June 13, 2026 | ৳21,800 |
 | WES Evaluation | Credential Evaluation (Course-by-Course) | After Results | ৳25,000 |
-| GregMat+ | Complete GRE Preparation Course | 6 months | ৳3,700 |
+| GregMat+ | Complete GRE Preparation Course | 6 months | ৳6,000 |
 | Application Fees | 10 universities (USA + Europe) | Aug - Oct 2026 | ৳60,000 |
 | Buffer | Bank fees, currency fluctuations | - | ৳5,000 |
 | **TOTAL** | | | **৳144,000** |
@@ -78,12 +78,12 @@
 
 | Month | Item | Amount (BDT) |
 |:---|:---|---:|
-| January 2026 | GregMat+ | ৳612 |
-| February 2026 | GregMat+ | ৳612 |
-| March 2026 | GRE Registration + GregMat+ | ৳29,112 |
-| April 2026 | GregMat+ | ৳612 |
-| May 2026 | TOEFL Registration + GregMat+ | ৳22,412 |
-| June 2026 | GregMat+ | ৳612 |
+| January 2026 | GregMat+ | ৳980 |
+| February 2026 | GregMat+ | ৳980 |
+| March 2026 | GRE Registration + GregMat+ | ৳29,480 |
+| April 2026 | GregMat+ | ৳980 |
+| May 2026 | TOEFL Registration + GregMat+ | ৳22,780 |
+| June 2026 | GregMat+ | ৳980 |
 | After Results | WES Evaluation | ৳25,000 |
 | Aug - Oct 2026 | Application Fees (10 universities) | ৳60,000 |
 | | **TOTAL** | **৳138,972** |
