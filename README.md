@@ -2,6 +2,25 @@
 
 > *"Every great adventure begins with a single step. Mine begins now."*
 
+## 📑 Table of Contents
+
+- [The Quest Overview](#-the-quest-overview)
+- [Victory Conditions](#-victory-conditions)
+- [Daily Training Regimen](#-daily-training-regimen)
+- [Chapter I: The Awakening](#-chapter-i-the-awakening-jan-8---feb-15--6-weeks)
+- [Chapter II: The Grind](#-chapter-ii-the-grind-feb-16---mar-31--6-weeks)
+- [Chapter III: The First Boss Battle](#-chapter-iii-the-first-boss-battle-apr-1---apr-15--2-weeks)
+- [Chapter IV: The TOEFL Trial](#-chapter-iv-the-toefl-trial-may-1---jun-15--6-weeks)
+- [Chapter V: The Sacred Scroll — SOP](#-chapter-v-the-sacred-scroll--sop-jun-15---jul-15)
+- [Chapter VI: Letters from the Elder Council — LOR](#-chapter-vi-letters-from-the-elder-council--lor-start-by-may)
+- [The Hero's Journey Map](#️-the-heros-journey-map)
+- [Grimoires & Artifacts](#-grimoires--artifacts)
+- [War Chest Requirements](#-war-chest-requirements)
+- [Power Level Tracking](#-power-level-tracking)
+- [Immediate Quest Log](#-immediate-quest-log)
+- [Weekly Milestones](#-weekly-milestones)
+- 📄 [**Full Cost Breakdown**](COST_BREAKDOWN.md)
+
 ---
 
 ## 🏰 The Quest Overview
