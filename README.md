@@ -1,262 +1,278 @@
-# 🎓 My Study Abroad Preparation Plan — Full Funding Goal
+# ⚔️ The Scholar's Quest — Journey to the Realm of Full Funding
 
-## 🎯 My Target Scores
-
-| Exam | Target Score | Section Breakdown |
-|:---|:---:|:---|
-| **GRE** | **325+** | Quant: 165+ / Verbal: 160+ |
-| **TOEFL iBT** | **110+** | R:28+ / L:28+ / S:26+ / W:28+ |
+> *"Every great adventure begins with a single step. Mine begins now."*
 
 ---
 
-## 📊 Executive Summary
+## 🏰 The Quest Overview
 
-| **Item** | **Target Date** | **Cost (BDT)** |
+| Trial | Date of Reckoning | Gold Required (৳) |
 | :--- | :--- | :--- |
-| **GRE** | April 12, 2026 | ৳28,500 |
-| **TOEFL** | June 13, 2026 | ৳21,800 |
-| **WES Evaluation** | After results | ~৳25,000 |
-| **GregMat+ (6 months)** | Jan - Jun 2026 | ~৳3,700 |
-| **Total** | | **~৳79,000** |
+| ⚔️ **The GRE Trial** | April 12, 2026 | 28,500 |
+| 🗣️ **The TOEFL Trial** | June 13, 2026 | 21,800 |
+| 📜 **WES Scroll Verification** | After victories | ~25,000 |
+| 📖 **GregMat+ Grimoire** (6 moons) | Jan - Jun 2026 | ~3,700 |
+| **Total Campaign Cost** | | **~৳79,000** |
 
 > [!NOTE]
-> *   Keeping ~৳5,000 buffer for bank fees and rate fluctuations
+> *Reserve ~৳5,000 in the war chest for unexpected tolls and currency fluctuations*
 
 ---
 
-## ⏰ My Daily Study Schedule
+## 🎯 Victory Conditions
 
-### Plan: 3-4 Hours/Day
+| Trial | Target Power Level | Attribute Breakdown |
+|:---|:---:|:---|
+| ⚔️ **GRE** | **325+** | Quant: 165+ ⚡ / Verbal: 160+ 📚 |
+| 🗣️ **TOEFL** | **110+** | R:28+ / L:28+ / S:26+ / W:28+ |
 
-| Time Block | Duration | Focus Area | Best For |
+---
+
+## ⏰ Daily Training Regimen
+
+### Training Intensity: 3-4 Hours per Day
+
+| Time of Day | Duration | Training Focus | Purpose |
 |:---|:---:|:---|:---|
-| **Morning** (7:00-8:30 AM) | 1.5 hrs | Vocabulary + Reading | Fresh mind for memorization |
-| **Evening** (7:00-9:00 PM) | 2 hrs | Quant Practice + Review | Problem-solving after work |
-| **Weekend Bonus** | +2 hrs | Full Section Practice | Timed mock sections |
+| 🌅 **Dawn** (7:00-8:30 AM) | 1.5 hrs | Vocabulary + Reading | Mind is sharpest at dawn |
+| 🌙 **Dusk** (7:00-9:00 PM) | 2 hrs | Quant Combat + Review | Battle practice after daily duties |
+| ⚔️ **Weekend Siege** | +2 hrs | Full Section Battles | Timed combat simulations |
 
-### Weekly Hour Distribution
+### Weekly Training Distribution
 
-| Day | Quant | Verbal | AWA | Total |
+| Day | Quant ⚡ | Verbal 📚 | AWA ✍️ | Total |
 |:---:|:---:|:---:|:---:|:---:|
 | Mon-Fri | 1 hr | 1.5 hrs | - | 2.5 hrs |
 | Saturday | 2 hrs | 2 hrs | 1 hr | 5 hrs |
 | Sunday | 1.5 hrs | 1.5 hrs | - | 3 hrs |
-| **Weekly Total** | **8 hrs** | **11 hrs** | **1 hr** | **~20 hrs** |
+| **Weekly** | **8 hrs** | **11 hrs** | **1 hr** | **~20 hrs** |
 
 > [!IMPORTANT]
-> **First Week Priority**: Take a diagnostic test to identify my strengths and weaknesses before diving into the detailed study.
+> **First Week Priority**: Take the Diagnostic Trial to reveal my strengths and weaknesses before the true training begins.
 
 ---
 
-## 📅 Phase 1: Diagnostic & Foundation (Jan 8 - Feb 15) — 6 Weeks
+## � Chapter I: The Awakening (Jan 8 - Feb 15) — 6 Weeks
 
-### Week 1: Diagnostic Assessment
-- [ ] **Day 1-2**: Take free ETS PowerPrep 1 diagnostic test
-- [ ] **Day 3**: Analyze results - identify weak areas in Quant & Verbal
-- [ ] **Day 4-5**: Set up study materials (GregMat+, ETS Official Guide)
-- [ ] **Day 6-7**: Begin vocabulary with first 100 Barron's 333 words
+*The hero discovers their path and begins to understand the challenges ahead...*
 
-### Week 2-3: Core Concepts
-| Focus | Daily Task | Goal |
+### Week 1: The Diagnostic Trial
+- [ ] **Day 1-2**: Face the ETS PowerPrep 1 trial
+- [ ] **Day 3**: Study the results — identify weak attributes
+- [ ] **Day 4-5**: Acquire study artifacts (GregMat+ Grimoire, ETS Official Tome)
+- [ ] **Day 6-7**: Begin memorizing the first 100 words of power
+
+### Week 2-3: Mastering the Fundamentals
+| Skill Tree | Daily Quest | Milestone |
 |:---|:---|:---|
-| **Quant** | Arithmetic, Number Properties | Master 2 topics/week |
-| **Verbal** | 25 vocab words + 2 RC passages | 175 words + RC strategies |
-| **AWA** | Read sample essays | Understand scoring rubric |
+| ⚡ **Quant** | Arithmetic, Number Properties | Master 2 skills/week |
+| 📚 **Verbal** | 25 words of power + 2 RC scrolls | 175 words + RC techniques |
+| ✍️ **AWA** | Study ancient essay examples | Understand the scoring runes |
 
-### Week 4-5: Building Blocks
-| Focus | Daily Task | Goal |
+### Week 4-5: Building the Arsenal
+| Skill Tree | Daily Quest | Milestone |
 |:---|:---|:---|
-| **Quant** | Algebra, Word Problems, Geometry | Complete all core topics |
-| **Verbal** | 25 words + TC/SE strategies | 350+ words mastered |
-| **Practice** | 10-15 problems per topic daily | Build speed and accuracy |
+| ⚡ **Quant** | Algebra, Word Problems, Geometry | Complete all fundamental skills |
+| 📚 **Verbal** | 25 words + TC/SE combat tactics | 350+ words mastered |
+| ⚔️ **Practice** | 10-15 problems per skill daily | Build speed and precision |
 
 ### Week 6: First Checkpoint
-- [ ] Take ETS PowerPrep 2 (free official mock)
-- [ ] Compare with diagnostic score
-- [ ] Adjust study plan based on improvement
+- [ ] Face ETS PowerPrep 2 (free official trial)
+- [ ] Compare power level with initial diagnostic
+- [ ] Adjust training based on growth
 
 ---
 
-## 📅 Phase 2: Reinforcement & Practice (Feb 16 - Mar 31) — 6 Weeks
+## � Chapter II: The Grind (Feb 16 - Mar 31) — 6 Weeks
 
-### Week 7-9: Topic Mastery
-| Day | Morning (1.5 hrs) | Evening (2 hrs) |
+*The hero trains relentlessly, pushing beyond their limits...*
+
+### Week 7-9: Mastery Training
+| Day | Dawn Training (1.5 hrs) | Dusk Training (2 hrs) |
 |:---|:---|:---|
-| **Mon** | 30 vocab + 2 RC | Arithmetic & Ratios drills |
-| **Tue** | 30 vocab + TC/SE practice | Algebra & Inequalities |
+| **Mon** | 30 words + 2 RC scrolls | Arithmetic & Ratios combat |
+| **Tue** | 30 words + TC/SE drills | Algebra & Inequalities |
 | **Wed** | Reading Comp strategies | Geometry & Coordinate |
-| **Thu** | 30 vocab + 2 RC | Data Interpretation |
+| **Thu** | 30 words + 2 RC scrolls | Data Interpretation |
 | **Fri** | Mixed Verbal review | Mixed Quant review |
-| **Sat** | Full Verbal section (timed) | Full Quant section (timed) |
-| **Sun** | Error log review | Weak area deep dive |
+| **Sat** | Full Verbal battle (timed) | Full Quant battle (timed) |
+| **Sun** | Error log analysis | Weak point training |
 
-### Week 10-12: Mock Test Phase
-| Week | Mock Test | Target Score | Focus After |
+### Week 10-12: The Trial Simulations
+| Week | Mock Battle | Target Power | Focus After |
 |:---:|:---|:---:|:---|
 | Week 10 | Manhattan 5lb Quant | 310+ | Error analysis |
 | Week 11 | Full ETS Mock | 315+ | Time management |
-| Week 12 | Kaplan/Princeton Mock | 318+ | Final weak areas |
+| Week 12 | Kaplan/Princeton Mock | 318+ | Final weaknesses |
 
 ---
 
-## 📅 Phase 3: Final GRE Push (Apr 1 - Apr 15) — 2 Weeks
+## � Chapter III: The First Boss Battle (Apr 1 - Apr 15) — 2 Weeks
 
-### Week 13: Intensive Review
-- [ ] Take 2 full-length mocks (Mon & Thu)
-- [ ] Review all error logs
-- [ ] Focus only on weak topics
+*The moment of truth approaches. The hero prepares for their greatest challenge yet...*
+
+### Week 13: Final Preparations
+- [ ] Engage in 2 full mock battles (Mon & Thu)
+- [ ] Review all error logs — learn from every mistake
+- [ ] Focus only on weak points
 - [ ] AWA: Write 4 practice essays
 
-### Week 14: Exam Week
-- [ ] Light review only (no new concepts)
-- [ ] 1 final mock on Monday
-- [ ] Rest and confidence building
-- [ ] **🎯 GRE EXAM: April 12, 2026 (Saturday)**
+### Week 14: The GRE Boss Battle
+- [ ] Light training only — preserve energy
+- [ ] 1 final mock battle on Monday
+- [ ] Rest and mental fortification
+- [ ] **⚔️ BOSS BATTLE: GRE — April 12, 2026 (Saturday)**
 
 ---
 
-## 📅 Phase 4: TOEFL Preparation (May 1 - Jun 15) — 6 Weeks
+## � Chapter IV: The TOEFL Trial (May 1 - Jun 15) — 6 Weeks
 
-### TOEFL Section Breakdown
+*A different kind of challenge awaits — one of communication and clarity...*
 
-| Section | Time | Questions | Target Score |
+### Trial Format
+
+| Section | Time Limit | Challenges | Target Score |
 |:---|:---:|:---:|:---:|
-| Reading | 35 min | 20 questions | 28+ |
-| Listening | 36 min | 28 questions | 28+ |
-| Speaking | 16 min | 4 tasks | 26+ |
-| Writing | 29 min | 2 tasks | 28+ |
+| 📖 Reading | 35 min | 20 questions | 28+ |
+| 👂 Listening | 36 min | 28 questions | 28+ |
+| 🗣️ Speaking | 16 min | 4 tasks | 26+ |
+| ✍️ Writing | 29 min | 2 tasks | 28+ |
 
-### Week 15-16: Format Familiarization
+### Week 15-16: Learning the Format
 | Day | Focus | Duration |
 |:---|:---|:---:|
 | Mon-Tue | Reading passage types | 2 hrs |
 | Wed-Thu | Listening note-taking | 2 hrs |
-| Fri-Sat | Speaking templates | 2 hrs |
+| Fri-Sat | Speaking incantations | 2 hrs |
 | Sunday | Writing structure | 2 hrs |
 
-### Week 17-18: Section Practice
+### Week 17-18: Intensive Practice
 - [ ] Reading: 2 full passages daily
 - [ ] Listening: 1 lecture + 1 conversation daily
 - [ ] Speaking: Record 4 responses daily
 - [ ] Writing: 1 integrated + 1 independent essay every 2 days
 
-### Week 19-20: Mock Tests & Polish
+### Week 19-20: Final Trials
 | Week | Activity | Goal |
 |:---:|:---|:---|
 | Week 19 | 2 full TOEFL mocks | 105+ score |
 | Week 20 | Final mock + review | 110+ score |
-| | **🎯 TOEFL EXAM: June 13, 2026 (Saturday)** | |
+| | **🗣️ BOSS BATTLE: TOEFL — June 13, 2026 (Saturday)** | |
 
 ---
 
-## 📝 Phase 5: Statement of Purpose (SOP) — Jun 15 - Jul 15
+## � Chapter V: The Sacred Scroll — SOP (Jun 15 - Jul 15)
 
-### SOP Essentials
+*The hero must now craft their legend — a scroll that tells their story...*
 
-| Element | What to Include |
+### Elements of the Sacred Scroll
+
+| Element | What to Inscribe |
 |:---|:---|
-| **Opening Hook** | Compelling story or motivation that sparked my interest |
-| **Academic Background** | Relevant coursework, projects, research experience |
-| **Professional Experience** | Work, internships, achievements related to the field |
-| **Why This Program** | Specific reasons for choosing the program/university |
-| **Research Interests** | Topics I want to explore, faculty I want to work with |
-| **Career Goals** | Short-term and long-term objectives |
-| **Why Me** | What unique perspective/skills I bring |
+| 🎭 **Opening Hook** | The origin story — what sparked this quest |
+| 📚 **Academic Journey** | Coursework, projects, research quests completed |
+| ⚔️ **Battle Experience** | Work, internships, achievements in the field |
+| 🏰 **Why This Kingdom** | Specific reasons for choosing each realm |
+| 🔮 **Research Dreams** | Topics to explore, mentors to seek |
+| 🌟 **Destiny** | Short-term and long-term vision |
+| 💎 **Unique Gifts** | What makes me different from other adventurers |
 
 ### SOP Timeline
 
-| Week | Task |
+| Week | Quest |
 |:---|:---|
-| **Week 21** | Research 5-6 target universities and their specific programs |
-| **Week 22** | Draft 1: Write raw first draft (no editing, just ideas) |
-| **Week 23** | Draft 2: Restructure, add specific details, cut fluff |
-| **Week 24** | Draft 3: Get feedback from mentors/professors, refine |
-| **Week 25** | Final polish: Customize for each university |
+| **Week 21** | Scout 5-6 target kingdoms and their programs |
+| **Week 22** | Draft 1: Raw thoughts onto parchment |
+| **Week 23** | Draft 2: Restructure, add details, remove fluff |
+| **Week 24** | Draft 3: Seek wisdom from mentors, refine |
+| **Week 25** | Final polish: Customize for each kingdom |
 
-### SOP Checklist
+### SOP Quest Log
 - [ ] Research target programs and faculty
 - [ ] List my achievements, projects, and experiences
-- [ ] Write Draft 1 (brain dump)
+- [ ] Write Draft 1 (unfiltered thoughts)
 - [ ] Revise Draft 2 (structure + specifics)
-- [ ] Get feedback from 2-3 people
-- [ ] Create university-specific versions
+- [ ] Get feedback from 2-3 wise counselors
+- [ ] Create kingdom-specific versions
 - [ ] Final proofread
 
 ---
 
-## 📜 Phase 6: Letters of Recommendation (LOR) — Start by May
+## 📜 Chapter VI: Letters from the Elder Council — LOR (Start by May)
 
-### LOR Strategy
+*The hero seeks endorsement from powerful allies who have witnessed their journey...*
 
-| Recommender Type | Why Important |
+### The Council Members
+
+| Elder Type | Their Testimony |
 |:---|:---|
-| **Academic Professor 1** | Can speak to my intellectual abilities, coursework performance |
-| **Academic Professor 2** | Research/project supervisor who knows my work ethic |
-| **Professional/Supervisor** | Work experience, leadership, real-world skills |
+| 🧙 **Academic Elder 1** | Speaks of intellectual prowess, coursework mastery |
+| 🧙 **Academic Elder 2** | Research/project guide who witnessed dedication |
+| ⚔️ **Professional Mentor** | Work experience, leadership, real-world skills |
 
 ### LOR Timeline
 
-| When | Task |
+| When | Quest |
 |:---|:---|
-| **May (Early)** | Identify 3-4 potential recommenders |
-| **May** | Approach them personally, explain my goals |
-| **June** | Provide them with my CV, SOP draft, and talking points |
-| **July** | Follow up politely, confirm they have time |
-| **Aug-Sep** | Send official requests through application portals |
-| **Before Deadline** | Send gentle reminders 2 weeks before due date |
+| **May (Early)** | Identify 3-4 potential council members |
+| **May** | Approach them personally, explain the journey |
+| **June** | Provide CV, SOP draft, and key talking points |
+| **July** | Follow up respectfully, confirm availability |
+| **Aug-Sep** | Send official requests through kingdom portals |
+| **Before Deadline** | Gentle reminders 2 weeks before due date |
 
-### What to Provide Recommenders
-- [ ] My updated CV/Resume
-- [ ] My draft SOP (so they understand my goals)
-- [ ] List of programs I'm applying to
-- [ ] Specific points I'd like them to highlight
-- [ ] Deadline dates for each university
+### Materials for the Elders
+- [ ] Updated CV/Resume scroll
+- [ ] Draft SOP (so they understand my quest)
+- [ ] List of kingdoms I'm applying to
+- [ ] Specific deeds I'd like them to highlight
+- [ ] Deadline dates for each kingdom
 
-### LOR Checklist
-- [ ] Identify 3-4 recommenders
-- [ ] Meet with each recommender personally
+### LOR Quest Log
+- [ ] Identify 3-4 elder council members
+- [ ] Meet with each elder personally
 - [ ] Prepare and share support materials
-- [ ] Track LOR status for each university
-- [ ] Send thank-you notes after submission
+- [ ] Track LOR status for each kingdom
+- [ ] Send gratitude scrolls after submission
 
 ---
 
-## 🛣️ Visual Preparation Path
+## �️ The Hero's Journey Map
 
 ```mermaid
 graph TD
-    subgraph "Phase 1: Foundation (Jan - Mid Feb)"
-        A[Diagnostic Test] --> B{Analyze Weakness}
-        B -->|Quant Weak| C[Quant Concepts<br>Arithmetic, Algebra, Geom]
-        B -->|Verbal Weak| D[Vocab Mountain<br>900+ words]
-        B -->|Both| E[Mixed Concept Building]
+    subgraph "Chapter I: The Awakening (Jan - Mid Feb)"
+        A[Diagnostic Trial] --> B{Reveal Weaknesses}
+        B -->|Quant Weak| C[Quant Training<br>Arithmetic, Algebra, Geom]
+        B -->|Verbal Weak| D[Vocabulary Mountain<br>900+ words of power]
+        B -->|Both| E[Mixed Training]
     end
 
-    subgraph "Phase 2: Reinforcement (Mid Feb - Mar)"
-        C --> F[Topic-wise Practice<br>5lb Book / Big Book]
+    subgraph "Chapter II: The Grind (Mid Feb - Mar)"
+        C --> F[Intensive Practice<br>5lb Book / Big Book]
         D --> G[RC Strategies & TC/SE Drills]
         E --> F
         E --> G
     end
 
-    subgraph "Phase 3: Testing & Polish (Apr)"
-        F --> H[Full Length Mocks<br>PowerPrep 1 & 2]
+    subgraph "Chapter III: Boss Battle (Apr)"
+        F --> H[Full Mock Battles<br>PowerPrep 1 & 2]
         G --> H
-        H --> I[Review & Error Log]
-        I --> J((GRE EXAM))
+        H --> I[Error Log Review]
+        I --> J((⚔️ GRE BOSS))
     end
     
-    subgraph "Phase 4: TOEFL (May - June)"
-        J --> K[TOEFL Format Familiarization]
+    subgraph "Chapter IV: TOEFL (May - June)"
+        J --> K[TOEFL Format Training]
         K --> L[Speaking & Writing Templates]
         L --> M[Listening & Reading Practice]
-        M --> N((TOEFL EXAM))
+        M --> N((🗣️ TOEFL BOSS))
     end
 
-    subgraph "Phase 5-6: Applications (Jun - Aug)"
-        N --> O[SOP Writing]
+    subgraph "Chapter V-VI: Applications (Jun - Aug)"
+        N --> O[SOP Crafting]
         O --> P[LOR Collection]
-        P --> Q((APPLICATIONS))
+        P --> Q((🏰 FULL FUNDING))
     end
 
     style J fill:#ff9900,stroke:#333,stroke-width:2px,color:white
@@ -266,86 +282,58 @@ graph TD
 
 ---
 
-## 📅 Full Timeline Gantt Chart
+## � Grimoires & Artifacts
 
-```mermaid
-gantt
-    title Study Abroad 2026 Roadmap — Full Funding
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b
+### Free Artifacts
 
-    section GRE Prep
-    Diagnostic & Foundation      :active, a1, 2026-01-08, 2026-02-15
-    Practice & Strengthening     :a2, after a1, 45d
-    Final Mock Tests & Review    :crit, a3, after a2, 15d
-    GRE Exam                     :milestone, 2026-04-15, 0d
-
-    section TOEFL Prep
-    Format & Templates           :2026-05-01, 15d
-    Section Practice             :2026-05-16, 15d
-    Mock Tests & Polish          :crit, 2026-06-01, 14d
-    TOEFL Exam                   :milestone, 2026-06-15, 0d
-
-    section Applications
-    SOP Writing                  :2026-06-15, 30d
-    LOR Collection               :2026-05-01, 120d
-    University Applications      :crit, 2026-08-01, 60d
-```
-
----
-
-## 📚 Resources
-
-### Free Resources
-
-| Resource | Focus |
+| Artifact | Power |
 |:---|:---|
-| **ETS PowerPrep** | Official GRE practice tests (2 free) |
-| **Magoosh Vocab App** | 1000+ GRE words (free mobile app) |
-| **ETS TOEFL Practice** | Official TOEFL prep materials |
+| 📜 **ETS PowerPrep** | Official GRE trial simulations (2 free) |
+| 📱 **Magoosh Vocab App** | 1000+ words of power (free) |
+| 🎧 **ETS TOEFL Practice** | Official TOEFL training materials |
 
-### Paid Resource
+### Purchased Grimoire
 
-| Resource | Cost | Why I'm Using It |
+| Grimoire | Cost | Why I Chose It |
 |:---|:---|:---|
-| **GregMat+** | $5/month (~৳612/month) | Complete GRE prep, best value for money |
+| 📖 **GregMat+** | $5/moon (~৳612/moon) | Complete GRE mastery, legendary value |
 
 ---
 
-## 💰 Cost Breakdown
+## 💰 War Chest Requirements
 
-### 1. GRE General Test
-*   **Registration Fee**: ৳28,500
-*   **Additional Score Reports**: $27 per recipient (4 free at test center)
+### ⚔️ The GRE Trial
+*   **Entry Fee**: ৳28,500
+*   **Extra Score Scrolls**: $27 per recipient (4 free at trial)
 
-### 2. TOEFL iBT
-*   **Registration Fee**: ৳21,800
-*   **Additional Score Reports**: $20 per recipient (4 free at test center)
+### 🗣️ The TOEFL Trial
+*   **Entry Fee**: ৳21,800
+*   **Extra Score Scrolls**: $20 per recipient (4 free at trial)
 
-### 3. WES Credential Evaluation
+### 📜 WES Scroll Verification
 *   **Course-by-Course Evaluation**: ~$205 (~৳25,000)
-*   Includes international courier delivery
+*   Includes international raven delivery
 
-### 4. Preparation Materials
-*   **GregMat+**: $5/month (~৳612/month)
+### 📖 Training Materials
+*   **GregMat+ Grimoire**: $5/moon (~৳612/moon)
 
 ---
 
-## 📈 Score Tracking
+## 📈 Power Level Tracking
 
 ### GRE Progress
 
-| Date | Mock Test | Quant | Verbal | Total | Notes |
+| Week | Trial | Quant ⚡ | Verbal 📚 | Total | Notes |
 |:---|:---|:---:|:---:|:---:|:---|
-| Week 1 | PowerPrep 1 (Diagnostic) | - | - | - | Baseline score |
-| Week 6 | PowerPrep 2 | - | - | - | Mid-checkpoint |
-| Week 10 | Manhattan Mock | - | - | - | Practice |
-| Week 12 | ETS Mock | - | - | - | Pre-final |
-| Week 14 | Final Mock | - | - | - | Ready for exam |
+| Week 1 | PowerPrep 1 (Diagnostic) | - | - | - | Starting power level |
+| Week 6 | PowerPrep 2 | - | - | - | Mid-journey check |
+| Week 10 | Manhattan Mock | - | - | - | Training battle |
+| Week 12 | ETS Mock | - | - | - | Pre-boss check |
+| Week 14 | Final Mock | - | - | - | Ready for boss |
 
 ### TOEFL Progress
 
-| Date | Mock Test | R | L | S | W | Total |
+| Week | Trial | R | L | S | W | Total |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|
 | Week 16 | Diagnostic | - | - | - | - | - |
 | Week 19 | Full Mock 1 | - | - | - | - | - |
@@ -353,24 +341,24 @@ gantt
 
 ---
 
-## ✅ Immediate Action Items
+## ⚡ Immediate Quest Log
 
-- [ ] **Jan 8**: Take ETS PowerPrep 1 diagnostic test
-- [ ] **Jan 9**: Analyze diagnostic results & identify weak areas
-- [ ] **Jan 10**: Sign up for GregMat+ ($5/month)
-- [ ] **Jan 12**: Passport Check - ensure validity for 6+ months past exam
-- [ ] **Week 2**: Begin vocabulary with Barron's 333 / Magoosh vocab app
-- [ ] **March**: Book GRE test date for mid-April
-- [ ] **April (post-GRE)**: Book TOEFL test date for mid-June
-- [ ] **May**: Approach potential LOR recommenders
-- [ ] **June**: Start SOP drafting
-- [ ] **Before exams**: Select 4 universities for free score sends
+- [ ] **Jan 8**: Face the ETS PowerPrep 1 diagnostic trial
+- [ ] **Jan 9**: Analyze results & identify weak attributes
+- [ ] **Jan 10**: Acquire the GregMat+ Grimoire ($5/moon)
+- [ ] **Jan 12**: Passport Check — ensure validity for 6+ moons past trials
+- [ ] **Week 2**: Begin vocabulary training with Barron's 333 / Magoosh app
+- [ ] **March**: Book GRE trial date
+- [ ] **April (post-GRE)**: Book TOEFL trial date
+- [ ] **May**: Approach potential LOR elder council members
+- [ ] **June**: Begin crafting the Sacred SOP Scroll
+- [ ] **Before trials**: Select 4 kingdoms for free score sends
 
 ---
 
-## 🎯 Weekly Checkpoint Goals
+## 🎯 Weekly Milestones
 
-| Week | Vocab Words | Quant Topics | Verbal Skills | Mock Score |
+| Week | Words of Power | Quant Skills | Verbal Skills | Power Level |
 |:---:|:---:|:---|:---|:---:|
 | 1-2 | 150 | Arithmetic, Percentages | RC basics | Diagnostic |
 | 3-4 | 300 | Algebra, Ratios | TC/SE intro | - |
@@ -382,4 +370,6 @@ gantt
 
 ---
 
-**Let's do this! 💪🎓**
+*"The path to glory is paved with discipline. The hero who trains hardest wins."*
+
+**⚔️ The Quest Begins! ⚔️**
