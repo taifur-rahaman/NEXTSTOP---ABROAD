@@ -1,14 +1,11 @@
-# 🎓 GRE & TOEFL Preparation Dashboard
+# 🎓 My GRE & TOEFL Preparation Plan
 
-## 🎯 Target Scores
+## 🎯 My Target Scores
 
 | Exam | Target Score | Section Breakdown |
 |:---|:---:|:---|
 | **GRE** | **325+** | Quant: 165+ / Verbal: 160+ |
 | **TOEFL iBT** | **110+** | R:28+ / L:28+ / S:26+ / W:28+ |
-
-> [!TIP]
-> IELTS 8 ≈ TOEFL 108-114. Aiming for 110+ keeps you competitive for top universities.
 
 ---
 
@@ -21,14 +18,14 @@
 | **Total** | | **~$425** | **~৳52,063** |
 
 > [!NOTE]
-> *   **Exchange Rate Used**: $1 = ৳122.5 (Average market rate as of Jan 7, 2026).
-> *   **Buffer**: It is recommended to keep a buffer of ~৳5,000 for bank transaction fees and potential rate fluctuations.
+> *   **Exchange Rate**: $1 = ৳122.5 (Jan 2026 rate)
+> *   **Buffer**: Keeping ~৳5,000 extra for bank fees and rate fluctuations
 
 ---
 
-## ⏰ Daily Study Schedule
+## ⏰ My Daily Study Schedule
 
-### Recommended: 3-4 Hours/Day
+### Plan: 3-4 Hours/Day
 
 | Time Block | Duration | Focus Area | Best For |
 |:---|:---:|:---|:---|
@@ -46,7 +43,7 @@
 | **Weekly Total** | **8 hrs** | **11 hrs** | **1 hr** | **~20 hrs** |
 
 > [!IMPORTANT]
-> **First Week Priority**: Take a diagnostic test to identify your strengths and weaknesses before starting the detailed study plan.
+> **First Week Priority**: Take a diagnostic test to identify my strengths and weaknesses before diving into the detailed study.
 
 ---
 
@@ -302,6 +299,6 @@ gantt
 ---
 
 > [!CAUTION]
-> **Burnout Prevention**: Take 1 full rest day per week. Quality > Quantity.
+> **Note to self**: Take 1 full rest day per week. Quality > Quantity. Don't burn out!
 
-**Good luck! You've got this! 💪🎓**
+**Let's do this! 💪🎓**
